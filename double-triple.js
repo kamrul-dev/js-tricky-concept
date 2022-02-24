@@ -1,11 +1,11 @@
 /* 
-    double equal ( == ) : 1. It checks the only comaparing data values.
-                          2.  It does implicit conversion.
+    double equal ( == ) : 1. It only compares and checks data values.
+                          2. It does implicit conversion.
 
-    triple equal ( === ) : 1. It checks the comaparing data values and also checks their data types strictly.
+    triple equal ( === ) : 1. It checks the comparing data values and also checks their data types strictly.
                            2. Used for safety.
-                           3. Most of the case we will use triple equal. 
-    
+                           3. Most of the time we will use triple equal. 
+
     Boolean logic:
         ### true defined by 1
         ### false defined by 0
