@@ -1,10 +1,10 @@
 
 /* 
     
-    -- global scope
-    -- local scope
-    -- Block scope
-    -- Hoisting 
+    -- global scope : var has global scope and hoisting.
+    -- local scope : var has local scope
+    -- Block scope : let and const has block scope
+    -- Hoisting : useed variable before its declaration.  x = 5, var x;
 */
 
 /* const favNum = 27;  // global variable
