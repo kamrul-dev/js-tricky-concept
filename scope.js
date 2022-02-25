@@ -47,4 +47,4 @@ const sum = add(20, 6);
 console.log(favNum); // global scope
 
 
-// global leaking happened when let or const is not declared with variable
+// global leaking happened when let or const is not declared with variable name
